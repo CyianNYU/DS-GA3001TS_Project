@@ -1,5 +1,5 @@
-# NYU_Capstone
-# DS-GA1011
-# DS-GA1011
-# DS-GA3001TS_Project
-# DS-GA3001TS_Project
+This is a repository for NYU DS-GA3001 Probabilistic time series analysis Final project
+
+Contributers:
+Yiyan Chen
+Xueying Wang
